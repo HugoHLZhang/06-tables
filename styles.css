@@ -1,0 +1,16 @@
+table, th, td{
+    border: 1px solid black;
+}
+th{
+    background-color: darkgreen;
+}
+td{
+    background-color: lightyellow;
+}
+td[rowspan], td[colspan]{
+    background-color: yellowgreen;
+    color: white;
+}
+th{
+    color: white;
+}
